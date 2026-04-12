@@ -207,7 +207,7 @@ input{
 .skills-flex-container {
     display: flex;
     flex-wrap: wrap;
-    gap: 60vh;
+    gap: 10vh;
     margin-top: 15px;
 }
 
